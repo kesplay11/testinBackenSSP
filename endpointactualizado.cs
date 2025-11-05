@@ -1,4 +1,4 @@
-blic async Task<List<CLIContenedorItemsRecepcionBloqDTO>> GetAllPlaquesForSectorsAndForModels()
+public async Task<List<CLIContenedorItemsRecepcionBloqDTO>> GetAllPlaquesForSectorsAndForModels()
 {
     try
     {
